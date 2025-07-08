@@ -1,5 +1,7 @@
 # Student Success & Resource Management Simulation
 
+### [ Live WebGL Demo 🥏](https://bilbanzania.github.io/Study-Abroad-Unity-Project_WebGL/)
+
 A dynamic WebGL simulation built in Unity to model the impact of resource availability on student academic performance and behavior. This project was originally developed as part of a study abroad program at Waseda University (早稲田大学) in Tokyo, Japan.
 
 ## The Pitch
